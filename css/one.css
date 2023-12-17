@@ -1,0 +1,30 @@
+.single_news_text {
+  margin-top: 14px;
+  font-size: 20px;
+}
+.main-content_one h3 {
+  color: rgb(93, 84, 39);
+  margin-top: 21px;
+}
+
+.single_news_text i {
+  margin-top: 14px;
+}
+.single_news_text p {
+  margin-top: 28px;
+  padding-bottom: 28px;
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: inset 0px -3px 10px whitesmoke;
+}
+
+/* Стиль для reg.html */
+
+.reg a {
+  margin-left: 40px;
+  font-size: 20px;
+}
+.form-text1 {
+  margin-left: 110px;
+}
